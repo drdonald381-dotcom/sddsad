@@ -1,0 +1,90 @@
+[
+    {
+        "case_id": "TFATPX",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1299563847819989036,
+        "infraction_type": "Warning",
+        "reason": "Parking in the middle of the road.",
+        "notes": "IA Agent - <@1123672718785663048>",
+        "timestamp": 1764290215,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443762549467119627",
+        "is_voided": false
+    },
+    {
+        "case_id": "JELSQ8",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1355699303217365142,
+        "infraction_type": "Termination",
+        "reason": "Using an alt account, raid protection.",
+        "notes": "",
+        "timestamp": 1764290244,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443762674654646332",
+        "is_voided": false
+    },
+    {
+        "case_id": "R4TU8B",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1324901144853741599,
+        "infraction_type": "Strike",
+        "reason": "Off duty commands, RDM.",
+        "notes": "Will begin Zero Tolerance Policy(ZTP), IA Agent - <@1375005988050042891>. Clip reviewed by <@928872809743142913> and <@1220099859101651049>.",
+        "timestamp": 1764290315,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443762972328722534",
+        "is_voided": false
+    },
+    {
+        "case_id": "L77OEQ",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1258913784320360488,
+        "infraction_type": "Warning",
+        "reason": "Shift Grinding",
+        "notes": "Shift removed.",
+        "timestamp": 1764290413,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443763382095183983",
+        "is_voided": false
+    },
+    {
+        "case_id": "7PG50V",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1397318315239673987,
+        "infraction_type": "Warning",
+        "reason": "Shift Grinding",
+        "notes": "Shift Removal.",
+        "timestamp": 1764290446,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443763520843022377",
+        "is_voided": false
+    },
+    {
+        "case_id": "O0J10C",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1290307133916581971,
+        "infraction_type": "Strike",
+        "reason": "Off duty commands, failure to log kicks.",
+        "notes": "",
+        "timestamp": 1764291737,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443768934300909589",
+        "is_voided": false
+    },
+    {
+        "case_id": "362TGY",
+        "issuer_id": 1220099859101651049,
+        "staff_id": 1290307133916581971,
+        "infraction_type": "Termination",
+        "reason": "Failed IA trial, dismissal early.",
+        "notes": "",
+        "timestamp": 1764295778,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443785884175700012",
+        "is_voided": false
+    },
+    {
+        "case_id": "OVUF2Q",
+        "issuer_id": 1282019478678274169,
+        "staff_id": 1375005988050042891,
+        "infraction_type": "Strike",
+        "reason": "spencer told me to",
+        "notes": "",
+        "timestamp": 1764300776,
+        "message_link": "https://discord.com/channels/1421266702326435912/1421280446079041687/1443806846988058696",
+        "is_voided": false
+    }
+]
